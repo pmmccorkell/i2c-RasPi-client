@@ -1,1 +1,3 @@
-# i2c-RasPi-client
+
+Highly unstable.
+Not ready for business.
