@@ -1,13 +1,12 @@
 from time import sleep
-import time
 import pigpio
 
 # The variable which stores i2c "register" values.
 # Update this with current values and information in the code that calls this library.
 DATAOUT={
-	'default':None,
 	'h':0x1680,
-	'p':0xb40
+	'p':0xb40,
+	'default':None
 	}
 
 # Set default I2C address
